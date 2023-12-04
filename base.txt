@@ -2,8 +2,8 @@ User1: I like red color. I like apple.
 User2: I like red color. I like apple.
 User3: I like red color. I like apple.
 User4: I like red color. I like apple.
-User5: I like red color. I like apple.
-User6: I like red color. I like apple.
+User5: I like red color. I like pear.
+User6: I like red color. I like pear.
 User7: I like orange color. I like pear.
 User8: I like orange color. I like pear.
 User9: I like orange color. I like pear.
